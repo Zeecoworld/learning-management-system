@@ -2,7 +2,6 @@
 
 A comprehensive API for managing educational institutions with features for students, teachers, and administrators.
 
-![LMS Dashboard](https://via.placeholder.com/800x400?text=LMS+Dashboard)
 
 ## 🌟 Features
 
