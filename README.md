@@ -60,8 +60,8 @@ The LMS API provides a RESTful interface with the following main endpoints:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/lms-api.git
-cd lms-api
+git clone https://github.com/Zeecoworld/learning-management-system.git
+cd learning-management-system
 ```
 
 2. Create and activate a virtual environment
