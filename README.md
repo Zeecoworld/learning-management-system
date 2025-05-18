@@ -149,13 +149,6 @@ The API uses token-based authentication. To obtain a token:
 2. Use the received token in the Authorization header for subsequent requests:
    `Authorization: Token YOUR_AUTH_TOKEN`
 
-## 🧪 Testing
-
-Run the test suite:
-
-```bash
-python manage.py test
-```
 
 ## 🤝 Contributing
 
